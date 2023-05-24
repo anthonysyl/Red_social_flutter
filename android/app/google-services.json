@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "966968191339",
+    "project_id": "socialconnecticol",
+    "storage_bucket": "socialconnecticol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966968191339:android:f02270c9ba46729a97042e",
+        "android_client_info": {
+          "package_name": "com.example.uni_connect_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966968191339-78td20fmg83n1as0a4iuvvu4emqf6s58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFpQxJS_QEhDEQIZdSsPdBl84pSo_ISK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966968191339-78td20fmg83n1as0a4iuvvu4emqf6s58.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966968191339-pvb7ups4cbr6f0ts7rld8oqttgk2ioum.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uniConnectClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
